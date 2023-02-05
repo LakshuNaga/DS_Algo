@@ -12,7 +12,7 @@ public class Combination_Sum_II {
     {
 //        int arr[] = {2,3,6,7};   //output :- [[2,2,3] ,[7]]
 //        int target = 7;
-        int arr[] = {2,5,2,1,2};
+        int arr[] = {4,6,7,7};
         int target = 5;
         Arrays.sort(arr);
         List<List<Integer>> res = new ArrayList<>();

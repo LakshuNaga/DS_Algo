@@ -46,5 +46,5 @@ public class Combination_Sum_I {
 }
 
 
-//Time Complexity : - (2^number of recursive call) * length of the input
+//Time Complexity : - (2^number of recursive call) * length of the input  O(k * nCk)
 //Space Complexity :- number of recursive call * length of the input
